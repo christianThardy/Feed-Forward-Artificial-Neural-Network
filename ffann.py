@@ -2,7 +2,7 @@
 
 
 # Data preprocessing
-# Import data and convert pandas marices to numpy arrays to tensorflow tensors
+# Import data and transform pandas marices to numpy arrays to tensorflow tensors
 
 import pandas as pd
 dataset = pd.read_csv('purchase_history.csv')
