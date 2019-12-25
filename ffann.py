@@ -1,5 +1,5 @@
 # Feed-Forward Neural Network in Tensorflow
-
+# Needs refactoring
 
 # Data preprocessing
 # Import data and transform pandas marices to numpy arrays to tensorflow tensors
