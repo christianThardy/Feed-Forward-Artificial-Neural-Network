@@ -1,6 +1,3 @@
-# Feed-Forward Neural Network in Tensorflow
-# Needs refactoring
-
 # Data preprocessing
 # Import data and transform pandas marices to numpy arrays to tensorflow tensors
 
@@ -84,10 +81,10 @@ tfY = tf.placeholder(tf.float32, [None, num_classes])
 
 # Weight initialization
 
-W1 = load_weights([input_dim, hidden_layers])
-b1 = load_weights([hidden_layers])
-W2 = load_weights([hidden_layers, num_classes])
-b2 = load_weights([num_classes])
+Weight_1 = load_weights([input_dim, hidden_layers])
+bias_1 = load_weights([hidden_layers])
+Weight_2 = load_weights([hidden_layers, num_classes])
+bias_2 = load_weights([num_classes])
 
 # Output variable
 
