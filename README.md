@@ -4,4 +4,4 @@ An 88% accuracy was achieved with a 1e-1 learning rate when changing the activat
 
 <b>Reference</b>:
 
-Bridle. Probabilistic Interpretation of Feedforward Classification Network Outputs, with Relationships to Statistical Pattern Recognition. 1989
+Bridle. *Probabilistic Interpretation of Feedforward Classification Network Outputs, with Relationships to Statistical Pattern Recognition*. 1989.
